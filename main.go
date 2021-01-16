@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/Albert-Zhan/httpc"
 	"github.com/unknwon/goconfig"
-	"github.com/ayambean/MT-JD/cmd"
-	"github.com/ayambean/MT-JD/common"
-	"github.com/ayambean/MT-JD/log"
+	"MT-JD/cmd"
+	"MT-JD/common"
+	"MT-JD/log"
 	"os"
 	"runtime"
 )
