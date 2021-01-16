@@ -10,7 +10,7 @@ import (
 	"github.com/unknwon/goconfig"
 	"../common"
 	"../jd_seckill"
-	"MT-JD/log"
+	"../log"
 	"net/url"
 	"os"
 	"time"
