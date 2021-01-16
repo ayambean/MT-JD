@@ -2,7 +2,7 @@ package service
 
 import (
 	"github.com/unknwon/goconfig"
-	"github.com/ayambean/MT-JD/log"
+	"../log"
 	"gopkg.in/gomail.v2"
 	"strconv"
 )
