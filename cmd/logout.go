@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/ayambean/MT-JD/common"
-	"github.com/ayambean/MT-JD/log"
+	"MT-JD/common"
+	"MT-JD/log"
 	"os"
 )
 
