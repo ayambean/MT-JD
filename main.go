@@ -3,10 +3,10 @@ package main
 import (
 	"github.com/Albert-Zhan/httpc"
 	"github.com/unknwon/goconfig"
-	"cmd"
+	"./cmd"
 	"./common"
 	"./log"
-	"./os"
+	"os"
 	"runtime"
 )
 
