@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"MT-JD/common"
+	"../common"
 	"os"
 )
 
