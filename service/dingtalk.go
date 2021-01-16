@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/blinkbean/dingtalk"
 	"github.com/unknwon/goconfig"
-	"github.com/ayambean/MT-JD/log"
+	"../log"
 	"regexp"
 )
 
