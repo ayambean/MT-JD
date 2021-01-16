@@ -6,7 +6,7 @@ import (
 	"github.com/Albert-Zhan/httpc"
 	"github.com/tidwall/gjson"
 	"github.com/unknwon/goconfig"
-	"github.com/ayambean/MT-JD/log"
+	"../log"
 )
 
 type Wechat struct {
