@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/makiuchi-d/gozxing"
 	"github.com/makiuchi-d/gozxing/qrcode"
-	"MT-JD/log"
+	"../MT-JD/log"
 	goQrcode "github.com/skip2/go-qrcode"
 	"golang.org/x/text/encoding/simplifiedchinese"
 	"golang.org/x/text/transform"
