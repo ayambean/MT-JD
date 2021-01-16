@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/ayambean/MT-JD/common"
-	"github.com/ayambean/MT-JD/jd_seckill"
-	"github.com/ayambean/MT-JD/log"
+	"MT-JD/common"
+	"MT-JD/jd_seckill"
+	"MT-JD/log"
 )
 
 func init() {
