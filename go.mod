@@ -1,4 +1,4 @@
-module github.com/ztino/jd_seckill
+module github.com/ayambean/MT-JD
 
 go 1.15
 
