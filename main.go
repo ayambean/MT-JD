@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/Albert-Zhan/httpc"
 	"github.com/unknwon/goconfig"
-	"github.com/ztino/jd_seckill/cmd"
-	"github.com/ztino/jd_seckill/common"
-	"github.com/ztino/jd_seckill/log"
+	"github.com/ayambean/MT-JD/cmd"
+	"github.com/ayambean/MT-JD/common"
+	"github.com/ayambean/MT-JD/log"
 	"os"
 	"runtime"
 )
