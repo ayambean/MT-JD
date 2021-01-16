@@ -3,10 +3,10 @@ package main
 import (
 	"github.com/Albert-Zhan/httpc"
 	"github.com/unknwon/goconfig"
-	"MT-JD/cmd"
-	"MT-JD/common"
-	"MT-JD/log"
-	"os"
+	"cmd"
+	"./common"
+	"./log"
+	"./os"
 	"runtime"
 )
 
